@@ -3,6 +3,6 @@ torchvision
 numpy
 matplotlib
 jupyter
-sciket-learn
+scikit-learn
 gradio
 tqdm
